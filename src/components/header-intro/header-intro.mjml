@@ -1,0 +1,10 @@
+<mj-column width="70%">
+    <mj-text font-size="10px" mj-class="arial">
+        Deze maand: digitale innovatie, AI werkbaar maken en interactieve webshops.  
+    </mj-text>
+</mj-column>    
+<mj-column width="30%">
+    <mj-text  font-size="10px" mj-class="secondary arial" css-class="intro__secondary">
+        Bekijk deze email in je browser
+    </mj-text>
+</mj-column>

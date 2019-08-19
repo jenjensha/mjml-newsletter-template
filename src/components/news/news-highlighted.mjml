@@ -1,0 +1,30 @@
+<mj-section  width="70%" css-class="events-wrapper" background-color="#F3F6F6">
+      <mj-column width="40%">
+        <mj-image width="200px" src="./assets/images/news-rubiks.jpg"></mj-image>
+      </mj-column>
+
+      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+
+        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+        <mj-text font-size="13px" color="#000" font-family="arial">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+       
+    
+     </mj-column>
+</mj-section>
+
+<mj-spacer height="20px"/>
+
+<mj-section css-class="events-wrapper" background-color="#F3F6F6">
+      <mj-column width="40%">
+        <mj-image width="200px" src="./assets/images/news-rubiks.jpg"></mj-image>
+      </mj-column>
+
+      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+
+        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+        <mj-text font-size="13px" color="#000" font-family="arial">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+       
+    
+     </mj-column>
+</mj-section>
+

@@ -1,0 +1,64 @@
+<mj-section>
+    <mj-column>
+        <mj-text font-family="Arial, sans-serif" font-size="13px" padding-top="40px"   padding-bottom="20px" mj-class="bold">
+         NEWS
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+ <mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image width="200px" src="./assets/images/Dept_26Mar_Talks-2.jpg"></mj-image>
+
+      </mj-column>
+         <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+            <mj-text padding-bottom="10px" font-weight="bold" font-size="13px" color="#000" font-family="arial"><a href="#" style="color:blue;">E-commerce voor de gamers - Sony PlayStation</a></mj-text>
+            <mj-text align="justify" font-size="13px" color="#000" font-family="arial"><p>Sony PlayStation merchandise komt Europa binnen met een webshop boordevol actie, die gamers een ware interactieve winkelervaring biedt. </p></mj-text>
+        </mj-column>
+</mj-section>
+<mj-spacer height="20px" />
+
+ <mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image width="200px" src="./assets/images/Dept_26Mar_Talks-2.jpg"></mj-image>
+        
+      </mj-column>
+         <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+            <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"><a href="#" style="color:blue;">De toepassing van AI op klantenservice</a></mj-text>
+            <mj-text align="justify" font-size="13px" color="#000" font-family="arial"><p>AI is allang geen buzzword meer. Het speelt een belangrijke rol in ons dagelijks leven op veel verschillende manieren. Maar wat werkt er voor bedrijven? In deze longread lees je over de praktische toepassingen van AI om klanten beter te kunnen bedienen.<p></mj-text>
+        </mj-column>
+</mj-section>
+<mj-spacer height="20px" />
+
+ <mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image width="200px" src="./assets/images/Dept_26Mar_Talks-2.jpg"></mj-image>
+        
+      </mj-column>
+         <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+            <mj-text padding-bottom="10px" font-weight="bold"  font-size="13px" color="#000" font-family="arial"><a href="#" style="color:blue;">De toepassing van AI op klantenservice</a></mj-text>
+            <mj-text font-size="13px" color="#000" font-family="arial"><p>AI is allang geen buzzword meer. Het speelt een belangrijke rol in ons dagelijks leven op veel verschillende manieren. Maar wat werkt er voor bedrijven? In deze longread lees je over de praktische toepassingen van AI om klanten beter te kunnen bedienen.<p></mj-text>
+        </mj-column>
+</mj-section>
+<mj-spacer height="20px" />
+
+
+
+
+
+
+
+        
+
+
+   
+
+    
+
+  
+ 
+
+
+
+
+

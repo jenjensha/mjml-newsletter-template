@@ -1,0 +1,23 @@
+<mj-text font-size="20px" padding-top="40px"  padding-left="40px" padding-bottom="20px" mj-class="bold arial" >
+    NEWS 
+</mj-text>
+
+<mj-spacer height="30px" />
+
+<mj-include path="./news-highlighted.mjml" />
+
+<mj-section>
+    <mj-column>
+        <mj-text padding-top="20px">
+            Hi %%first_name%%,
+        </mj-text>
+        <mj-text>
+            <p>Tegenwoordig is digitaal innoveren een must om klanten te werven en behouden. In deze nieuwsbrief delen wij een aantal manieren hoe hierop ingespeeld kan worden. Zo hebben wij samen met Omoda digitale synergie gecreëerd door middel van teamtrainingen, bouwden wij met PlayStation een interactieve webshop en gaan we in op de toepassing van  AI om jouw klanten beter te kunnen bedienen. En digitale vernieuwing is natuurlijk ook relevant op het gebied van ons eigen business model; onze Depsters spreken over de ‘new type of agency’ tijdens Cannes Lions 2019.</p>
+        </mj-text>
+    </mj-column>
+
+</mj-section>
+
+<mj-include path="./news-list.mjml" />
+<mj-include path="./news-events.mjml" />
+

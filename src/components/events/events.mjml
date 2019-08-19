@@ -1,0 +1,72 @@
+<mj-spacer height="40px" />
+<mj-text font-size="20px" padding-top="40px"  padding-bottom="20px" mj-class="bold arial" >
+    EVENTS
+</mj-text>
+
+<mj-spacer height="20px" />
+
+<mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" />
+      </mj-column>
+
+      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
+        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
+        <mj-text mj-class="secondary bold" padding-top="10px">
+            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+        </mj-text>
+     
+    </mj-column>
+</mj-section>
+
+  <mj-spacer height="20px"/>
+<
+<mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" /> 
+      </mj-column>
+
+      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
+        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
+        <mj-text mj-class="secondary bold" padding-top="10px">
+            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+        </mj-text>
+     
+    </mj-column>
+</mj-section>
+
+<mj-spacer height="20px"/>
+
+<mj-section css-class="events-wrapper" background-color="#fff">
+      <mj-column width="40%">
+        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" />
+      </mj-column>
+
+      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
+        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
+        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
+        <mj-text mj-class="secondary bold" padding-top="10px">
+            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+        </mj-text>
+     
+    </mj-column>
+</mj-section> -->
+
+   
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

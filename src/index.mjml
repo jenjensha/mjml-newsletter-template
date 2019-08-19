@@ -1,0 +1,98 @@
+<mjml>
+
+    <mj-head>
+        <mj-breakpoint width="768px" />
+        <mj-preview>Hello MJML</mj-preview>
+        <mj-include path="./stylesheet/general-css.mjml" />
+    
+         <mj-style>
+             
+            @media (max-width: 540px) { 
+             
+
+                .events__image{
+                    width: 300px;
+                    height: auto;
+                    
+                }
+
+                .newsletter__news {
+                    max-width: 80%;
+                    margin: 20px;
+                }
+                
+            }
+
+                
+            @media (min-width: 541px) { 
+
+               .newsletter-footer {
+                   
+               }
+               
+            }
+
+            @media (min-width: 768px) {
+                .intro__secondary div {
+                    text-align: right !important;
+                }
+            }
+              
+        </mj-style>
+       
+    </mj-head>
+
+    <mj-body background-color="#fff">
+
+        <mj-wrapper>
+            <mj-section vertical-align="middle" padding-left="20px" padding-top="20px" padding-bottom="20px" padding-right="20px">
+
+                <mj-include path="./components/header-intro/header-intro.mjml" />
+                
+            </mj-section>
+
+
+            <mj-section> 
+                <mj-group width="100%">
+
+                    <mj-column>
+                        <mj-image css-class="newsletter-header-image" src="./assets/images/newsletterimage5.jpg"></mj-image>
+                    </mj-column>
+                 
+                </mj-group>
+            </mj-section>
+
+            <mj-section background-color="#F3F6F6" padding="25px" padding-bottom="45px">
+                <mj-group css-class="newsletter-section newsletter-events">
+                    
+                    <mj-include path="./components/events/events.mjml" />
+                </mj-group>
+            </mj-section>
+
+            <mj-section css-class="newsletter-section  newsletter__news" padding="25px">
+                <mj-group>
+                    <mj-include path="./components/news/news.mjml" />
+                </mj-group>
+            </mj-section>
+
+            <mj-section padding="25px">
+
+                <mj-group  css-class="newsletter-section newsletter-footer">
+                    <mj-include path="./components/life-at-dept/life-at-dept.mjml" />
+                     <mj-section>
+                        <mj-group>
+                            <mj-column>
+                                <mj-text align="center" color="blue" font-size="11px" padding-top="40px"mj-class="bold">
+                                Unsubscribe from all emails
+                                </mj-text>
+                            </mj-column>
+                        </mj-group> 
+                    </mj-section>
+                </mj-group>
+
+            </mj-section>
+            
+       </mj-wrapper> 
+    
+    </mj-body>
+</mjml>

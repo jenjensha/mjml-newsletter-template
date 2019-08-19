@@ -1,0 +1,18 @@
+<mj-attributes>
+    <mj-all padding="0px" font-family="Arial"></mj-all>
+    <mj-class name="helvetica" font-family="Helvetica Neue"/>
+    <mj-class name="arial" font-family="Arial"/>
+
+    <mj-class name="text" font-size: "5px" />
+    <mj-class name="body-text" font-size: "13px" />
+    <mj-class name="title-text" font-size: "30px" />
+
+     <mj-class name="bold" font-weight="800" />
+
+    <mj-class name="primary" color="#000" />
+    <mj-class name="secondary" color="#1A18F7" />
+
+   
+    
+
+</mj-attributes>
