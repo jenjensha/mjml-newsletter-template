@@ -1,6 +1,8 @@
+<mj-section padding-bottom="40px"></mj-section>
+
 <mj-section>
     <mj-column>
-        <mj-text font-family="Arial, sans-serif" font-size="13px" padding-top="40px"   padding-bottom="20px" mj-class="bold">
+        <mj-text padding-bottom="20px" mj-class="body-text arial bold">
          EVENTS
         </mj-text>
     </mj-column>
@@ -8,10 +10,10 @@
 
 <mj-section>
     <mj-column>
-        <mj-text mj-class="bold" font-size="15px">
+        <mj-text mj-class="bold body-title">
             <a href="#" style="color:blue;">25 juni - Dept Talks: How to grow your commerce platform with Salesforce</a>
         </mj-text>
-        <mj-text>
+        <mj-text mj-class="body-text primary">
             <p>Commerce ontwikkelt zich niet in stappen, maar in sprongen. Tijdens deze Dept Talks maken we je wegwijs in de wirwar van nieuwe ecosystemen, interfaces en leveringsmethodes. Onmisbaar als je bezig bent met het uitbreiden van jouw webshop.</p>
         </mj-text>
     </mj-column>
@@ -19,10 +21,10 @@
 </mj-section>
     <mj-section>
     <mj-column>
-        <mj-text font-size="15px" mj-class="bold">
-            <a href="#" style="color:blue;">27 juni - Dept Talks: Generatie Digital: Master the art of digital experiences</a>
+        <mj-text mj-class="bold body-title">
+            <a href="#" style="color:blue; align: justify;">27 juni - Dept Talks: Generatie Digital: Master the art of digital experiences</a>
         </mj-text>
-        <mj-text>
+        <mj-text mj-class="body-text primary">
             <p>Millenials zijn digital natives in hart en nieren, en soms onmogelijk om online te bereiken. Waar ze wel gevoelig voor zijn? Digital experiences. Wij laten je in deze Dept Talks zien hoe je dat aanpakt.</p>
         </mj-text>
     </mj-column>

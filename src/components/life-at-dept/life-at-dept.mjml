@@ -1,33 +1,35 @@
-<mj-section>
-    <mj-column>
-        <mj-text font-family="Arial, sans-serif" font-size="20px"  padding-bottom="20px" mj-class="bold">
-         LIFE @ DEPT
-        </mj-text>
-    </mj-column>
-</mj-section>
+<mj-wrapper padding-left="25px" padding-right="25px" padding-top="40px">
+    <mj-section>
+        <mj-column>
+            <mj-text font-family="Arial, sans-serif" padding-bottom="20px" mj-class="title-text bold">
+            LIFE @ DEPT
+            </mj-text>
+        </mj-column>
+    </mj-section>
 
-<mj-section>
-<mj-group>
-    <mj-column padding-right="30px" padding-bottom="30px"> 
-        <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-    </mj-column>
-    
+    <mj-section>
+    <mj-group>
+        <mj-column padding-right="30px" padding-bottom="30px"> 
+            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+        </mj-column>
+        
 
-    <mj-column padding-right="30px"  padding-bottom="30px"> 
-        <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-    </mj-column>
-</mj-group>
+        <mj-column padding-right="30px"  padding-bottom="30px"> 
+            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+        </mj-column>
+    </mj-group>
 
-<mj-group>
-    <mj-column padding-right="30px" padding-bottom="30px"> 
-        <mj-image  fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-    </mj-column>
+    <mj-group>
+        <mj-column padding-right="30px" padding-bottom="30px"> 
+            <mj-image  fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+        </mj-column>
 
-    <mj-column padding-right="30px" padding-bottom="30px"> 
-        <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-    </mj-column>
-</mj-group>
-</mj-section>
+        <mj-column padding-right="30px" padding-bottom="30px"> 
+            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+        </mj-column>
+    </mj-group>
+    </mj-section>
+</mj-wrapper>
 
 
 

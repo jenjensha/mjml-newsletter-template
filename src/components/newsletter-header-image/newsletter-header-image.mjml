@@ -1,0 +1,9 @@
+<mj-section>
+    <mj-group width="100%">
+
+        <mj-column>
+            <mj-image css-class="newsletter-header-image" src="./assets/images/newsletterimage5.jpg"></mj-image>
+        </mj-column>
+
+    </mj-group>
+</mj-section>

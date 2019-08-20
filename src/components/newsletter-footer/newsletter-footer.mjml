@@ -1,0 +1,7 @@
+<mj-section padding="25px">
+    <mj-column>
+        <mj-text padding-top="40px" align="center" mj-class="body-text secondary bold">
+        Unsubscribe from all emails
+        </mj-text>
+    </mj-column>
+</mj-section>

@@ -1,0 +1,23 @@
+ <mj-style>
+      @media (max-width: 540px) {
+
+
+        .events__image {
+          width: 300px;
+          height: auto;
+
+        }
+
+        .newsletter__news {
+          max-width: 80%;
+          margin: 20px;
+        }
+
+      }
+
+      @media (min-width: 768px) {
+        .intro__secondary div {
+          text-align: right !important;
+        }
+      }
+</mj-style>

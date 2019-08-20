@@ -1,72 +1,73 @@
-<mj-spacer height="40px" />
-<mj-text font-size="20px" padding-top="40px"  padding-bottom="20px" mj-class="bold arial" >
-    EVENTS
-</mj-text>
-
-<mj-spacer height="20px" />
-
-<mj-section css-class="events-wrapper" background-color="#fff">
-      <mj-column width="40%">
-        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" />
-      </mj-column>
-
-      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
-        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
-        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
-        <mj-text mj-class="secondary bold" padding-top="10px">
-            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
-        </mj-text>
-     
+<mj-wrapper padding-left="25px" padding-right="25px" background-color="#F3F6F6" padding-bottom="45px">
+  <mj-section padding-bottom="15px" padding-top="45px" css-class="newsletter-section newsletter-events">
+    <mj-column>
+      <mj-text padding-bottom="20px" mj-class="title-text bold arial">
+        EVENTS
+      </mj-text>
     </mj-column>
-</mj-section>
+  </mj-section>
 
-  <mj-spacer height="20px"/>
-<
-<mj-section css-class="events-wrapper" background-color="#fff">
-      <mj-column width="40%">
-        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" /> 
-      </mj-column>
-
-      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
-        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
-        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
-        <mj-text mj-class="secondary bold" padding-top="10px">
-            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
-        </mj-text>
-     
+  <mj-section background-color="#fff" css-class="events-wrapper">
+    <mj-column width="40%">
+      <mj-image fluid-on-mobile="true" src="./assets/images/dept-event-talk.jpg" />
     </mj-column>
-</mj-section>
 
-<mj-spacer height="20px"/>
-
-<mj-section css-class="events-wrapper" background-color="#fff">
-      <mj-column width="40%">
-        <mj-image fluid-on-mobile="true" src="./assets/images/Dept_26Mar_Talks-2.jpg" />
-      </mj-column>
-
-      <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="10px">
-        <mj-text padding-bottom="10px" font-weight="bold" align="justify" font-size="13px" color="#000" font-family="arial"> 6 sep - Dept Festival 2019</mj-text>
-        <mj-text align="justify" font-size="13px" color="#000" font-family="arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
-        <mj-text mj-class="secondary bold" padding-top="10px">
-            <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
-        </mj-text>
-     
+    <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+      <mj-text padding-bottom="10px" mj-class="body-text bold primary arial" align="justify"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+      <mj-text align="justify" mj-class="body-text primary arial normal">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+      <mj-text mj-class="body-text secondary bold" padding-top="10px" padding-bottom="10px">
+        <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+      </mj-text>
     </mj-column>
-</mj-section> -->
+  </mj-section>
 
-   
-
-
-
-
-
-
-
-
+  <mj-section padding-bottom="20px"></mj-section>
     
+  <mj-section css-class="events-wrapper" background-color="#fff">
+    <mj-column width="40%">
+      <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+    </mj-column>
 
+    <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+      <mj-text padding-bottom="10px" mj-class="body-text bold primary arial" align="justify"> 6 sep - Dept Festival 2019</mj-text>
+      <mj-text align="justify" mj-class="body-text primary arial">Als er iets is dat elke dag weet te inspireren, dan is het digital wel. Of je nu een tech-head, data pro of creatieveling bent: jij bent er heilig van overtuigd dat het verleggen van digitale grenzen onze levens steeds wat beter kan maken.</mj-text>
+      <mj-text mj-class="body-text secondary bold" padding-top="10px" padding-bottom="10px">
+        <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
 
+  <mj-section padding-bottom="20px"></mj-section>
 
+  <mj-section css-class="events-wrapper" background-color="#fff">
+    <mj-column width="40%">
+      <mj-image fluid-on-mobile="true" src="./assets/images/events-group1.jpg" />
+    </mj-column>
 
+    <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+      <mj-text padding-bottom="10px" align="justify" mj-class="body-text bold primary arial">15 okt - Emerce DARE</mj-text>
+      <mj-text mj-class="body-text primary arial">DARE is een evenement voor digital creatives met oog voor de toekomst. Centrale thema’s: geavanceerd ontwerp, nieuwe visies en ideeën, interactieontwerp, visueel ontwerp en creatieve processen.</mj-text>
+      <mj-text mj-class="body-text secondary bold" padding-top="10px" padding-bottom="10px">
+        <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+      </mj-text>
 
+    </mj-column>
+  </mj-section>
 
+   <mj-section padding-bottom="20px"></mj-section>
+
+  <mj-section css-class="events-wrapper" background-color="#fff">
+    <mj-column width="40%">
+      <mj-image fluid-on-mobile="true" src="./assets/images/events-group2.jpg" />
+    </mj-column>
+
+    <mj-column width="60%" padding-top="10px" padding-left="10px" padding-right="20px">
+      <mj-text padding-bottom="10px" align="justify" mj-class="body-text bold primary arial">14 nov - Emerce GAUC</mj-text>
+      <mj-text mj-class="body-text primary arial">Emerce GAUC staat voor Google Analytics User Conference en is hét event in Nederland voor iedereen die meer wilt weten over de mogelijkheden, toepasbaarheid en laatste ontwikkelingen binnen Google Analytics.</mj-text>
+      <mj-text mj-class="body-text secondary bold" padding-top="10px" padding-bottom="10px">
+        <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
+      </mj-text>
+
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
