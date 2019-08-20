@@ -2,23 +2,28 @@
     <mj-section padding-bottom="30px"></mj-section>
     <mj-section>
         <mj-column>
-            <mj-text padding-bottom="20px" mj-class="title-text bold arial" >
-                NEWS 
-        </mj-text>
-    </mj-column> 
+            <mj-text mj-class="title-text bold arial" >
+                NEWS
+            </mj-text>
+            <mj-spacer css-class="hide-on-mobile" height="30px" />
+            <mj-spacer css-class="hide-on-desktop" height="20px" />
+        </mj-column> 
     </mj-section>
-
-    <mj-section padding-bottom="20px"></mj-section>
 
     <mj-include path="./news-highlighted.mjml" />
 
     <mj-section>
         <mj-column>
-            <mj-text padding-top="40px" mj-class="body-text">
-                Hi [[first_name]],
-            </mj-text>
+        <mj-spacer css-class="hide-on-mobile" height="40px" />
+            <mj-spacer css-class="hide-on-desktop" height="20px" />
             <mj-text mj-class="body-text">
-                <p>Tegenwoordig is digitaal innoveren een must om klanten te werven en behouden. In deze nieuwsbrief delen wij een aantal manieren hoe hierop ingespeeld kan worden. Zo hebben wij samen met Omoda digitale synergie gecreëerd door middel van teamtrainingen, bouwden wij met PlayStation een interactieve webshop en gaan we in op de toepassing van  AI om jouw klanten beter te kunnen bedienen. En digitale vernieuwing is natuurlijk ook relevant op het gebied van ons eigen business model; onze Depsters spreken over de ‘new type of agency’ tijdens Cannes Lions 2019.</p>
+                Hi [[first_name]],
+                
+            </mj-text>
+            <mj-spacer height="20px" />
+            
+            <mj-text mj-class="body-text">
+                Tegenwoordig is digitaal innoveren een must om klanten te werven en behouden. In deze nieuwsbrief delen wij een aantal manieren hoe hierop ingespeeld kan worden. Zo hebben wij samen met Omoda digitale synergie gecreëerd door middel van teamtrainingen, bouwden wij met PlayStation een interactieve webshop en gaan we in op de toepassing van  AI om jouw klanten beter te kunnen bedienen. En digitale vernieuwing is natuurlijk ook relevant op het gebied van ons eigen business model; onze Depsters spreken over de ‘new type of agency’ tijdens Cannes Lions 2019.
             </mj-text>
         </mj-column>
 

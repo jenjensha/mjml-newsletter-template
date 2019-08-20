@@ -1,16 +1,20 @@
-<mj-wrapper padding-left="25px" padding-right="25px" padding-top="40px">
+<mj-wrapper padding-left="10px" padding-right="25px">
     <mj-section>
         <mj-column>
-            <mj-text font-family="Arial, sans-serif" padding-bottom="20px" mj-class="title-text bold">
+            <mj-spacer css-class="hide-on-mobile" height="30px" />
+            <mj-spacer css-class="hide-on-desktop" height="20px" />
+            <mj-text padding-left="10px" font-family="Arial, sans-serif"  mj-class="title-text bold">
             LIFE @ DEPT
             </mj-text>
+            <mj-spacer css-class="hide-on-mobile" height="30px" />
+            <mj-spacer css-class="hide-on-desktop" height="20px" />
         </mj-column>
     </mj-section>
 
     <mj-section>
         <mj-group>
             <mj-column padding-bottom="30px"> 
-                <mj-image padding-right="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
                  
             </mj-column>
         
@@ -23,11 +27,13 @@
     
         <mj-group>
             <mj-column padding-bottom="30px"> 
+           
                 <mj-image  padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
             </mj-column>
 
             <mj-column padding-bottom="30px"> 
                 <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+            
             </mj-column>
         </mj-group>
     </mj-section>

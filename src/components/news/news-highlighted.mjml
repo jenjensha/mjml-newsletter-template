@@ -1,23 +1,25 @@
-<mj-section background-color="#F3F6F6" css-class="events-wrapper" padding-bottom="10px">
+<mj-section background-color="#F3F6F6" css-class="events-wrapper">
   <mj-column width="40%">
     <mj-image fluid-on-mobile="true" src="./assets/images/news-rubiks.jpg" />
   </mj-column>
-  <mj-column width="60%" padding-top="10px" padding-left="15px" padding-right="10px">
-    <mj-text padding-bottom="10px" mj-class="body-title bold"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
-    <mj-text mj-class="body-text">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+  <mj-column width="60%" padding-top="10px" padding-right="10px">
+    <mj-text padding-bottom="10px" css-class="newsletter-padding--left"  mj-class="body-title bold"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+    <mj-text css-class="newsletter-padding--left" mj-class="body-text">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+    <mj-spacer css-class="hide-on-desktop" height="20px" />
   </mj-column>
 </mj-section>
 
  <mj-section padding-bottom="20px"></mj-section>
 
-<mj-section background-color="#F3F6F6" css-class="events-wrapper" padding-bottom="10px">
+<mj-section background-color="#F3F6F6" css-class="events-wrapper">
   <mj-column width="40%">
     <mj-image fluid-on-mobile="true" src="./assets/images/news-jbl.jpg" />
   </mj-column>
 
-  <mj-column width="60%" padding-top="10px" padding-left="15px" padding-right="10px">
-    <mj-text padding-bottom="10px" mj-class="bold body-title"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
-    <mj-text mj-class="body-text primary">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+  <mj-column width="60%" padding-top="10px"  padding-right="10px">
+    <mj-text padding-bottom="10px" css-class="newsletter-padding--left"  mj-class="bold body-title"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+    <mj-text css-class="newsletter-padding--left"  mj-class="body-text primary">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+    <mj-spacer css-class="hide-on-desktop" height="20px" />
   </mj-column>
 </mj-section>
 

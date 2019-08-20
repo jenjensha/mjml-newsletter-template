@@ -1,23 +1,33 @@
  <mj-style>
-      @media (max-width: 540px) {
 
-
-        .events__image {
-          width: 300px;
-          height: auto;
-
-        }
-
-        .newsletter__news {
-          max-width: 80%;
-          margin: 20px;
-        }
-
-      }
-
-      @media (min-width: 768px) {
+    .intro__secondary div {
+        text-align: right !important;
+    }
+    
+    @media (max-width: 767px) {
         .intro__secondary div {
-          text-align: right !important;
+            text-align: left !important;
         }
-      }
+    }
+
+    @media only screen and (min-width: 768px) { 
+        .newsletter__padding--mobile { padding-left: 20px!important;}
+    }
+
+    .newsletter-padding--left{
+        padding-left: 20px !important;
+    }
+    @media only screen and (max-width: 767px) { 
+        .newsletter-padding--left { padding-left: 10px!important;}
+    }
+
+    @media only screen and (max-width: 767px) { 
+        .hide-on-mobile { display: none !important;}
+    }
+
+    .hide-on-desktop { display: none !important;}
+
+    @media only screen and (max-width: 767px) { 
+        .hide-on-desktop { display: block !important;}
+    }
 </mj-style>
