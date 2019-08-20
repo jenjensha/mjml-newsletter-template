@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-breakpoint width="768px" />
-    <mj-include path="./stylesheet/general-css.mjml" />
+    <mj-include path="./stylesheet/main-style.mjml" />
     <mj-include path="./stylesheet/style.mjml"/>
   </mj-head>
 

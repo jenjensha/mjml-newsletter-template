@@ -8,26 +8,28 @@
     </mj-section>
 
     <mj-section>
-    <mj-group>
-        <mj-column padding-right="30px" padding-bottom="30px"> 
-            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-        </mj-column>
+        <mj-group>
+            <mj-column padding-bottom="30px"> 
+                <mj-image padding-right="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+                 
+            </mj-column>
         
+            <mj-column padding-bottom="30px"> 
+                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+                
+            </mj-column>
+            
+        </mj-group>
+    
+        <mj-group>
+            <mj-column padding-bottom="30px"> 
+                <mj-image  padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+            </mj-column>
 
-        <mj-column padding-right="30px"  padding-bottom="30px"> 
-            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-        </mj-column>
-    </mj-group>
-
-    <mj-group>
-        <mj-column padding-right="30px" padding-bottom="30px"> 
-            <mj-image  fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-        </mj-column>
-
-        <mj-column padding-right="30px" padding-bottom="30px"> 
-            <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-        </mj-column>
-    </mj-group>
+            <mj-column padding-bottom="30px"> 
+                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+            </mj-column>
+        </mj-group>
     </mj-section>
 </mj-wrapper>
 
