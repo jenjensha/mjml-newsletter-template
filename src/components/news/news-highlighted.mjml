@@ -1,6 +1,6 @@
 <mj-section background-color="#F3F6F6" css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/news-rubiks.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
   <mj-column width="60%" padding-top="10px" padding-right="10px">
     <mj-text padding-bottom="10px" css-class="newsletter-padding--left"  mj-class="body-title bold"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
@@ -13,7 +13,7 @@
 
 <mj-section background-color="#F3F6F6" css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/news-jbl.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
 
   <mj-column width="60%" padding-top="10px"  padding-right="10px">

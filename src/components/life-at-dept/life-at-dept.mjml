@@ -1,43 +1,32 @@
 <mj-wrapper padding-left="10px" padding-right="25px">
-    <mj-section>
-        <mj-column>
-            <mj-spacer css-class="hide-on-mobile" height="30px" />
-            <mj-spacer css-class="hide-on-desktop" height="20px" />
-            <mj-text padding-left="10px" font-family="Arial, sans-serif"  mj-class="title-text bold">
-            LIFE @ DEPT
-            </mj-text>
-            <mj-spacer css-class="hide-on-mobile" height="30px" />
-            <mj-spacer css-class="hide-on-desktop" height="20px" />
-        </mj-column>
-    </mj-section>
+  <mj-section>
+    <mj-column>
+      <mj-spacer css-class="hide-on-mobile" height="30px" />
+      <mj-spacer css-class="hide-on-desktop" height="20px" />
+      <mj-text padding-left="10px" font-family="Arial, sans-serif" mj-class="title-text bold">
+        LIFE @ DEPT
+      </mj-text>
+      <mj-spacer css-class="hide-on-mobile" height="30px" />
+      <mj-spacer css-class="hide-on-desktop" height="20px" />
+    </mj-column>
+  </mj-section>
 
-    <mj-section>
-        <mj-group>
-            <mj-column padding-bottom="30px"> 
-                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-                 
-            </mj-column>
-        
-            <mj-column padding-bottom="30px"> 
-                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-                
-            </mj-column>
-            
-        </mj-group>
-    
-        <mj-group>
-            <mj-column padding-bottom="30px"> 
-           
-                <mj-image  padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-            </mj-column>
-
-            <mj-column padding-bottom="30px"> 
-                <mj-image padding-left="10px" fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
-            
-            </mj-column>
-        </mj-group>
-    </mj-section>
+  <mj-section>
+    <mj-group>
+      <mj-column padding-bottom="30px">
+        <mj-image padding-left="10px" fluid-on-mobile="true" src="http://lorempixel.com/400/400/nightlife/" />
+      </mj-column>
+      <mj-column padding-bottom="30px">
+        <mj-image padding-left="10px" fluid-on-mobile="true" src="http://lorempixel.com/400/400/nightlife/" />
+      </mj-column>
+    </mj-group>
+    <mj-group>
+      <mj-column padding-bottom="30px">
+        <mj-image padding-left="10px" fluid-on-mobile="true" src="http://lorempixel.com/400/400/nightlife/" />
+      </mj-column>
+      <mj-column padding-bottom="30px">
+        <mj-image padding-left="10px" fluid-on-mobile="true" src="http://lorempixel.com/400/400/nightlife/" />
+      </mj-column>
+    </mj-group>
+  </mj-section>
 </mj-wrapper>
-
-
-

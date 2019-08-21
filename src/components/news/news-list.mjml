@@ -1,84 +1,67 @@
 <mj-section>
-    <mj-column>
-        <mj-spacer css-class="hide-on-mobile" height="40px" />
-        <mj-spacer css-class="hide-on-desktop" height="20px" />
-        <mj-text padding-bottom="20px" mj-class="body-text bold primary">
-         NEWS
-        </mj-text>
-    </mj-column>
+  <mj-column>
+    <mj-spacer css-class="hide-on-mobile" height="40px" />
+    <mj-spacer css-class="hide-on-desktop" height="20px" />
+    <mj-text padding-bottom="20px" mj-class="body-text bold primary">
+      NEWS
+    </mj-text>
+  </mj-column>
 </mj-section>
 
-<mj-section  css-class="events-wrapper">
+<mj-section css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/news-rubiks.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
-  <mj-column width="60%"  padding-right="10px">
-    <mj-spacer css-class="hide-on-desktop" height="20px" />
-    <mj-text padding-bottom="10px" css-class="newsletter__padding--mobile" mj-class="body-title bold primary"><a href="#" style="color:blue;">E-commerce voor de gamers - Sony PlayStation</a></mj-text>
-    <mj-text css-class="newsletter__padding--mobile" mj-class="body-text primary">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
+  <mj-column width="20px">
+    <mj-spacer height="10px" />
+  </mj-column>
+  <mj-column width="55%" padding-right="10px">
+    <mj-text padding-bottom="10px" mj-class="body-title bold primary"><a href="#" style="color:blue;">E-commerce voor de gamers - Sony PlayStation</a></mj-text>
+    <mj-text mj-class="body-text primary">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
   </mj-column>
 </mj-section>
 
 <mj-section padding-bottom="20px"></mj-section>
 
-<mj-section  css-class="events-wrapper">
+<mj-section css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/news-jbl.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
-  <mj-column width="60%" padding-right="10px">
-    <mj-spacer css-class="hide-on-desktop" height="20px" />
-    <mj-text padding-bottom="10px" css-class="newsletter__padding--mobile"  mj-class="body-title bold primary"><a href="#" style="color:blue;">De toepassing van AI op klantenservice</a></mj-text>
-    <mj-text css-class="newsletter__padding--mobile" mj-class="body-text primary">AI is allang geen buzzword meer. Het speelt een belangrijke rol in ons dagelijks leven op veel verschillende manieren. Maar wat werkt er voor bedrijven? In deze longread lees je over de praktische toepassingen van AI om klanten beter te kunnen bedienen.</mj-text>
+  <mj-column width="20px">
+    <mj-spacer height="10px" />
+  </mj-column>
+  <mj-column width="55%" padding-right="10px">
+    <mj-text padding-bottom="10px" mj-class="body-title bold primary"><a href="#" style="color:blue;">De toepassing van AI op klantenservice</a></mj-text>
+    <mj-text mj-class="body-text primary">AI is allang geen buzzword meer. Het speelt een belangrijke rol in ons dagelijks leven op veel verschillende manieren. Maar wat werkt er voor bedrijven? In deze longread lees je over de praktische toepassingen van AI om klanten beter te kunnen bedienen.</mj-text>
   </mj-column>
 </mj-section>
 
- <mj-section padding-bottom="20px"></mj-section>
+<mj-section padding-bottom="20px"></mj-section>
 
-<mj-section  css-class="events-wrapper">
+<mj-section css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/events-group1.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
-  <mj-column width="60%" padding-right="10px">
-    <mj-spacer css-class="hide-on-desktop" height="20px" />
-    <mj-text padding-bottom="10px" css-class="newsletter__padding--mobile"  mj-class="body-title bold primary"><a href="#" style="color:blue;">Dept gaat in Cannes dieper in op nieuw type bureau</a></mj-text>
-    <mj-text css-class="newsletter__padding--mobile" mj-class="body-text primary">Op 17 juni gaat het jaarlijkse Cannes Lions festival van start. Depsters René Verbong (executive creative director) en Rens Verweij (head of strategy) vertellen over de 'new type of agency' en er wordt met vakgenoten over de toekomst van branded creativity gesproken.</mj-text>
+  <mj-column width="20px">
+    <mj-spacer height="10px" />
+  </mj-column>
+  <mj-column width="55%" padding-right="10px">
+    <mj-text padding-bottom="10px" mj-class="body-title bold primary"><a href="#" style="color:blue;">Dept gaat in Cannes dieper in op nieuw type bureau</a></mj-text>
+    <mj-text mj-class="body-text primary">Op 17 juni gaat het jaarlijkse Cannes Lions festival van start. Depsters René Verbong (executive creative director) en Rens Verweij (head of strategy) vertellen over de 'new type of agency' en er wordt met vakgenoten over de toekomst van branded creativity gesproken.</mj-text>
   </mj-column>
 </mj-section>
 
- <mj-section padding-bottom="20px"></mj-section>
+<mj-section padding-bottom="20px"></mj-section>
 
-<mj-section  css-class="events-wrapper">
+<mj-section css-class="events-wrapper">
   <mj-column width="40%">
-    <mj-image fluid-on-mobile="true" src="./assets/images/news-rubiks.jpg" />
+    <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
   </mj-column>
-  <mj-column width="60%" padding-right="10px">
-    <mj-spacer css-class="hide-on-desktop" height="20px" />
-  
-    <mj-text padding-bottom="10px" css-class="newsletter__padding--mobile"  mj-class="body-title bold primary"><a href="#" style="color:blue;">Synergie in digitale innovatie - Omoda</a></mj-text>
-    <mj-text  css-class="newsletter__padding--mobile" mj-class="body-text primary">Omoda weet dat commerce voortdurend in beweging is. Samen met het ooit in 1875 begonnen familiebedrijf werken wij continu aan digitale innovatie. Met succes: nu is de schoenenwinkelketen een leidende commercespeler.</mj-text>
+  <mj-column width="20px">
+    <mj-spacer height="10px" />
+  </mj-column>
+  <mj-column width="55%" padding-right="10px">
+    <mj-text padding-bottom="10px" mj-class="body-title bold primary"><a href="#" style="color:blue;">Synergie in digitale innovatie - Omoda</a></mj-text>
+    <mj-text mj-class="body-text primary">Omoda weet dat commerce voortdurend in beweging is. Samen met het ooit in 1875 begonnen familiebedrijf werken wij continu aan digitale innovatie. Met succes: nu is de schoenenwinkelketen een leidende commercespeler.</mj-text>
   </mj-column>
 </mj-section>
-
-
-
-
-
-
-
-
-
-
-        
-
-
-   
-
-    
-
-  
- 
-
-
-
-
-

@@ -13,12 +13,12 @@
 
   <mj-section background-color="#fff" css-class="events-wrapper">
     <mj-column width="40%">
-      <mj-image fluid-on-mobile="true" src="./assets/images/dept-event-talk.jpg" />
+      <mj-image css-class="newsletter-image" fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
     </mj-column>
 
     <mj-column width="60%" padding-top="10px"  padding-right="20px">
        
-      <mj-text padding-bottom="10px" css-class="newsletter-padding--left" mj-class="body-text bold primary arial" align="justify"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
+      <mj-text padding-bottom="10px" css-class="newsletter-padding--left" mj-class="body-text bold primary arial"> 26 sep - Dept Talks: Reaching & Recruiting New Students Online</mj-text>
       <mj-text align="justify"  css-class="newsletter-padding--left"  mj-class="body-text primary arial normal">De tijd dat een geprinte brochure zorgde voor voldoende zichtbaarheid en inschrijvingen bij jouw hogeschool of universiteit is allang niet meer.</mj-text>
       <mj-text css-class="newsletter-padding--left" mj-class="body-text secondary bold" padding-top="10px" padding-bottom="10px">
         <a href="#" style="text-decoration:none; color:blue;">MELD JE AAN</a>
@@ -30,7 +30,7 @@
     
   <mj-section css-class="events-wrapper" background-color="#fff">
     <mj-column width="40%">
-      <mj-image fluid-on-mobile="true" src="./assets/images/festival-crowd.jpg" />
+      <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
     </mj-column>
 
     <mj-column width="60%" padding-top="10px" padding-right="20px">
@@ -46,7 +46,7 @@
 
   <mj-section css-class="events-wrapper" background-color="#fff">
     <mj-column width="40%">
-      <mj-image fluid-on-mobile="true" src="./assets/images/events-group1.jpg" />
+      <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
     </mj-column>
 
     <mj-column width="60%" padding-top="10px" padding-right="20px">
@@ -63,7 +63,7 @@
 
   <mj-section css-class="events-wrapper" background-color="#fff">
     <mj-column width="40%">
-      <mj-image fluid-on-mobile="true" src="./assets/images/events-group2.jpg" />
+      <mj-image fluid-on-mobile="true" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny262/321011/76511/events_group1.jpg" />
     </mj-column>
 
     <mj-column width="60%" padding-top="10px" padding-right="20px">

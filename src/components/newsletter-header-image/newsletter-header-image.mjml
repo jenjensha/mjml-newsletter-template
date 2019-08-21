@@ -1,9 +1,7 @@
 <mj-section>
-    <mj-group width="100%">
-
-        <mj-column>
-            <mj-image css-class="newsletter-header-image" src="./assets/images/newsletterimage5.jpg"></mj-image>
-        </mj-column>
-
-    </mj-group>
+  <mj-group width="100%">
+    <mj-column>
+      <mj-image css-class="newsletter-header-image" src="http://www2.deptagency.com/l/321011/2019-08-20/22ny238/321011/76505/newsletterimage5.jpg"></mj-image>
+    </mj-column>
+  </mj-group>
 </mj-section>
